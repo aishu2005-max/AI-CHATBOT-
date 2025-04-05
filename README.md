@@ -31,5 +31,9 @@ TECHNOLOGIES USED:
 .NLP LIBRARIES(E.G., SPACY, NLTK, OR TRANSFORMERS)
 .BACKEND(PYTHON)
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1f8c6433-6998-4b47-8845-d909afeb902b)
+
 
 
